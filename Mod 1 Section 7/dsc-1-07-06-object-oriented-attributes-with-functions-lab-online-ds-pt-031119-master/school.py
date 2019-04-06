@@ -1,5 +1,5 @@
 class School():
-    def __init__(self, name):
+    def __init__(self, name, roster=none):
         self.name = name
         self._roster = {}
 
